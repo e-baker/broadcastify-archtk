@@ -1,9 +1,8 @@
 # Project-specific folders
-# private .ini files
-private
+# private files
+.broadcastify_login.cfg
 # mp3 files and folders
 *mp3*
-.idea/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
